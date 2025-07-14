@@ -1,7 +1,7 @@
 ### Hi there, I'm Priyanshu Mall! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+Galgotias+University;Passionate+Web+%26+Full Stack Developer;Lifelong+Learner+%F0%9F%93%9A;Exploring+Tech+and+Code+Daily+%F0%9F%92%BB"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+Galgotias+University;Passionate+Web+%26+Full+Stack+Developer;Lifelong+Learner+%F0%9F%93%9A;Exploring+Tech+and+Code+Daily+%F0%9F%92%BB"/>
 </div>
 
 ---
